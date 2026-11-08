@@ -18,7 +18,8 @@
 * **[cpp-tcp-arcade](https://github.com/NguyenVan030300/cpp-tcp-arcade)**  
   A C++17 TCP server hosting a terminal arcade (Snake & Tetris) using low-level POSIX sockets, non-blocking loops (`SO_RCVTIMEO`), and terminal raw-mode input parsing.
 * **[Snake-Wriiten in C#](https://github.com/NguyenVan030300/LearningCSharp)**
-  Currently learning C#, here is my simple Console Snake game
+
+  Currently learning C#, here is my simple Console Snake game.
 ---
 
 ### 📫 Connect with me
